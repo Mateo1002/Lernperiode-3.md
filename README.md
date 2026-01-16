@@ -25,6 +25,6 @@ Am Projekt meines Vaters zu arbeiten.
 Ich habe mich weiter informiert und versucht herauszufinden welche Vorlage ich auf Visual Studio verwenden könnte. Leider war die Vorlage die ich verwenden wollte aus irgendeinem Grund nicht verfügbar also muss ich noch eine Alternative finden, sicherstellen dass es diese auch gibt und kann dann erst mit dem Informieren und einem ersten Prototypen beginnen.
 
 ## Planung 16.01.2026
-- [ ] Eine neue Vrolage für Visual Studio finden
+- [ ] Eine neue Vorlage für Visual Studio finden
 - [ ] Mich beginnen zu informieren wie ich die verschiedenen Anforderungen da implementieren kann
 - [ ] Meine Erkentnisse notieren
