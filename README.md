@@ -42,5 +42,21 @@ Es war mir leider nicht möglich die Aufgaben zu erfüllen da ich mich durch wen
 
 ## Planung 13.02.2026
 - [ ] Beim Modul 117 wieder zum aktuellen Punkt aufholen
-- [ ] Mit dem schreiben des SQL-Programms für die LB im Modul 164 beginnen
+- [x] Mit dem schreiben des SQL-Programms für die LB im Modul 164 beginnen
 - [ ] Im Modul 164 weitere Aufträge lösen
+
+## 13.02.2026
+Das Arbeiten an der LB ging gut da wenn ich fragen hatte ich gut meine Mitschüler um hilfe bitten konnte. Am Modul 117 habe ich leider noch nicht weitergearbeitet da ich am Modul 164 so gut vorankam und es deshalb vergas.
+
+## Planung 20.02.2026
+- [ ] Am Modul 117 weiterarbeiten damit ich bei den Abgaben nächste Woche nicht allzu viel Stress habe
+- [ ] An der LB für Modul 164 weiterarbeiten damit ich bei der Abgabe nächste Woche nicht mehr allzu viel zu tun habe
+- [ ] Die Videos von Modul 164 welche ich noch nicht geschaut habe schauen
+
+## 20.02.2026
+Wir haben fast den ganzen Morgen am Netzwerklabor gearbeitet und sind dort dank Saskia und Miguel gut vorangekommen doch nicht ganz fertig da wir noch eine Frage an Frau Dillier stellen müssen. 
+
+## Planung 27.02.2026
+- [ ] Mich in die Anforderungen der neuen Module einlesen
+- [ ] Einschätzen wie viel Arbeit die beiden Module in etwa geben werden
+- [ ] Falls nötig schon dann vorarbeiten
