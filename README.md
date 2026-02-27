@@ -60,3 +60,13 @@ Wir haben fast den ganzen Morgen am Netzwerklabor gearbeitet und sind dort dank 
 - [ ] Mich in die Anforderungen der neuen Module einlesen
 - [ ] Einschätzen wie viel Arbeit die beiden Module in etwa geben werden
 - [ ] Falls nötig schon dann vorarbeiten
+
+ ## 27.02.2026
+Da die Module noch nicht freigeschaltet wurden konnte ich leider noch nicht die Anforderungen einschauen weder vorarbeiten. Also habe ich nicht allzu viel gemacht ausser den Videos welche ich im Modul 164 nicht angeschaut habe zu schauen.
+
+## 06.03.2026
+- [ ] Mich in die Anforderungen der neuen Module einlesen
+- [ ] Einschätzen wie viel Arbeit die beiden Module in etwa geben werden
+- [ ] Falls nötig schon dann vorarbeiten
+
+ 
