@@ -65,8 +65,14 @@ Wir haben fast den ganzen Morgen am Netzwerklabor gearbeitet und sind dort dank 
 Da die Module noch nicht freigeschaltet wurden konnte ich leider noch nicht die Anforderungen einschauen weder vorarbeiten. Also habe ich nicht allzu viel gemacht ausser den Videos welche ich im Modul 164 nicht angeschaut habe zu schauen.
 
 ## 06.03.2026
-- [ ] Mich in die Anforderungen der neuen Module einlesen
-- [ ] Einschätzen wie viel Arbeit die beiden Module in etwa geben werden
-- [ ] Falls nötig schon dann vorarbeiten
+- [x] Mich in die Anforderungen der neuen Module einlesen
+- [x] Einschätzen wie viel Arbeit die beiden Module in etwa geben werden
+- [x] Falls nötig schon dann vorarbeiten
 
- 
+## 06.03.2026
+ich habe am Modul 106 weitergearbeitet. Dies ging gut da es ein aufbauendes Modul auf die vorherigen ist, ich diese relativ gut verstanden habe und die ersten paar Aufgaben hauptsächlich repetition der schon behandelten Themen war.
+
+## Planung 13.03.2026
+- [ ] Im Modul 106 Anfällige Aufgaben nachholen damit ich nicht mit den Abgaben zurückfalle
+- [ ] Im Modul 187 Aufträge abschliessen
+- [ ] Im Modul 187 die Theorie der letzten Male durchgehen
