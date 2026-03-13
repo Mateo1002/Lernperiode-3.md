@@ -73,7 +73,7 @@ Da die Module noch nicht freigeschaltet wurden konnte ich leider noch nicht die 
 Ich habe am Modul 106 weitergearbeitet. Dies ging gut da es ein aufbauendes Modul auf die vorherigen ist, ich diese relativ gut verstanden habe und die ersten paar Aufgaben hauptsächlich repetition der schon behandelten Themen war.
 
 ## Planung 13.03.2026
-- [x] Im Modul 106 Anfällige Aufgaben nachholen damit ich nicht mit den Abgaben zurückfalle
+- [ ] Im Modul 106 Anfällige Aufgaben nachholen damit ich nicht mit den Abgaben zurückfalle
 - [x] Im Modul 187 Aufträge abschliessen
 - [x] Im Modul 187 die Theorie der letzten Male durchgehen
 
