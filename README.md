@@ -70,9 +70,12 @@ Da die Module noch nicht freigeschaltet wurden konnte ich leider noch nicht die 
 - [x] Falls nötig schon dann vorarbeiten
 
 ## 06.03.2026
-ich habe am Modul 106 weitergearbeitet. Dies ging gut da es ein aufbauendes Modul auf die vorherigen ist, ich diese relativ gut verstanden habe und die ersten paar Aufgaben hauptsächlich repetition der schon behandelten Themen war.
+Ich habe am Modul 106 weitergearbeitet. Dies ging gut da es ein aufbauendes Modul auf die vorherigen ist, ich diese relativ gut verstanden habe und die ersten paar Aufgaben hauptsächlich repetition der schon behandelten Themen war.
 
 ## Planung 13.03.2026
-- [ ] Im Modul 106 Anfällige Aufgaben nachholen damit ich nicht mit den Abgaben zurückfalle
-- [ ] Im Modul 187 Aufträge abschliessen
-- [ ] Im Modul 187 die Theorie der letzten Male durchgehen
+- [x] Im Modul 106 Anfällige Aufgaben nachholen damit ich nicht mit den Abgaben zurückfalle
+- [x] Im Modul 187 Aufträge abschliessen
+- [x] Im Modul 187 die Theorie der letzten Male durchgehen
+
+## 13.03.2026
+Das aufsetzen der VM für Modul 187 welches ich erst heute machen konnte da am Mittwoch mein Computer ohne vorwarnung ein Update gemacht hatte. Dies brauchte ziemlich viel Zeit da das Herunterladen ziemlich lange gegangen ist. In der zwischenzeit hätte ich an den Aufträgen für Modul 106 weiterarbeiten sollen war aber abgelenkt da ich wegen dem verlieren meines Handys am Vortag noch schlecht gestimmt war.
