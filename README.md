@@ -81,6 +81,14 @@ Ich habe am Modul 106 weitergearbeitet. Dies ging gut da es ein aufbauendes Modu
 Das aufsetzen der VM für Modul 187 welches ich erst heute machen konnte da am Mittwoch mein Computer ohne vorwarnung ein Update gemacht hatte. Dies brauchte ziemlich viel Zeit da das Herunterladen ziemlich lange gegangen ist. In der zwischenzeit hätte ich an den Aufträgen für Modul 106 weiterarbeiten sollen war aber abgelenkt da ich wegen dem verlieren meines Handys am Vortag noch schlecht gestimmt war.
 
 ## Planung 20.03.2026
-- [ ] Im Modul 106 alle noch anfälligen Aufträge lösen
+- [x] Im Modul 106 alle noch anfälligen Aufträge lösen
 - [ ] Im Modul 106 mindestens 2 weitere Aufträge lösen damit ich nicht weiter zurückfalle
-- [ ] Im Modul 187 die nicht vollständig bearbeiteten Aufträge vollenden
+- [x] Im Modul 187 die nicht vollständig bearbeiteten Aufträge vollenden
+
+## 20.03.2026
+Ich konnte die Aufträge gut bearbeiten da es ziemlich leise war aber hatte keine Motivation weiterzuabreiten da die Aufträge welche ich nachholen musste nicht so schlimm waren und ich mich entschied das ich diese Aufträge am Dienstag dann ohne grosse schwierigkeiten lösen könnte.
+
+## Planung 27.03.2026
+- [ ] Falls in beiden Modulen noch Aufträge anfällig sind diese lösen
+- [ ] Den Vorschlag das Opalfassungs-Bildgenerierungsprojektes mit OpenCV anstatt KI zu machen aufbereiten um meinem Vater zu präsentieren
+- [ ] Neue Anforderungsanalyse schreiben
