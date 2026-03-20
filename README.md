@@ -79,3 +79,8 @@ Ich habe am Modul 106 weitergearbeitet. Dies ging gut da es ein aufbauendes Modu
 
 ## 13.03.2026
 Das aufsetzen der VM für Modul 187 welches ich erst heute machen konnte da am Mittwoch mein Computer ohne vorwarnung ein Update gemacht hatte. Dies brauchte ziemlich viel Zeit da das Herunterladen ziemlich lange gegangen ist. In der zwischenzeit hätte ich an den Aufträgen für Modul 106 weiterarbeiten sollen war aber abgelenkt da ich wegen dem verlieren meines Handys am Vortag noch schlecht gestimmt war.
+
+## Planung 20.03.2026
+- [ ] Im Modul 106 alle noch anfälligen Aufträge lösen
+- [ ] Im Modul 106 mindestens 2 weitere Aufträge lösen damit ich nicht weiter zurückfalle
+- [ ] Im Modul 187 die nicht vollständig bearbeiteten Aufträge vollenden
