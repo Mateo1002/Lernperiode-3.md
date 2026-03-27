@@ -92,3 +92,12 @@ Ich konnte die Aufträge gut bearbeiten da es ziemlich leise war aber hatte kein
 - [ ] Falls in beiden Modulen noch Aufträge anfällig sind diese lösen
 - [ ] Den Vorschlag das Opalfassungs-Bildgenerierungsprojektes mit OpenCV anstatt KI zu machen aufbereiten um meinem Vater zu präsentieren
 - [ ] Neue Anforderungsanalyse schreiben
+
+## 27.03.2026
+Ich konnte einige Aufträge für die Abgabe nächsten Dienstag nicht lösen da ich meine Kopfhörer Zuhause vergessen hatte, die Leute wie immer redeten und mich so davon abhielten mich vollständig auf die Arbeit konzentrieren zu können. 
+
+## Planung 03.04.2026
+- [ ] Die Arbeit von Modul 106 so einteilen dass ich sicher nicht zurückfalle
+- [ ] Dem erstellten Plan nach Aufgaben lösen
+- [ ] Den Plan falls nötig anpassen
+
